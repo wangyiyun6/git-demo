@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 h hello git!
-hello wordld hellogit!
-hello wordld! hello git!
-hello wordld! hello-184467440 
+hello wordld
