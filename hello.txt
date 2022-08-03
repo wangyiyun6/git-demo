@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-h hello git!
-hello wordld
-22222222222 by
-6666666
